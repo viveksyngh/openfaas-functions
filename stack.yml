@@ -15,3 +15,7 @@ functions:
     lang: python
     handler: ./fn3
     image: viveksyngh/fn3
+  fn4:
+    lang: python
+    handler: ./fn4
+    image: viveksyngh/fn4
