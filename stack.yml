@@ -6,12 +6,12 @@ functions:
   fn1:
     lang: python
     handler: ./fn1
-    image: fn1
+    image: viveksyngh/fn1
   fn2:
     lang: python
     handler: ./fn2
-    image: fn2
+    image: viveksyngh/fn2
   fn3:
     lang: python
     handler: ./fn3
-    image: fn3
+    image: viveksyngh/fn3
