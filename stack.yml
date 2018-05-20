@@ -11,3 +11,7 @@ functions:
     lang: python
     handler: ./fn2
     image: fn2
+  fn3:
+    lang: python
+    handler: ./fn3
+    image: fn3
