@@ -4,4 +4,4 @@ def handle(req):
         req (str): request body
     """
 
-    return req + " from fn6"
+    return req + " from fn6 function"
