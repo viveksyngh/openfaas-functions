@@ -1,0 +1,8 @@
+curators:
+ - viveksyngh
+ 
+features:
+ - dco_check
+ - comments
+
+contributing_url: https://github.com/alexellis/derek/blob/master/CONTRIBUTING.md
