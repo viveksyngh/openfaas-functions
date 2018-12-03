@@ -1,23 +1,22 @@
 roles:
-  - role: curator
-     actions:
-       - labels
-       - close_issue
-       - open_issue
-
-  - role: maintainer
-     actions:
-       - close_issue
-       - open_issue
+ - role: curator
+   actions:
+    - labels
+    - close_issue
+    - open_issue
+ - role: maintainer
+   actions:
+    - close_issue
+    - open_issue
 
 users:
-  - name: alexellis
-    roles:
-      - maintainer
-  - name: rgee0
-    roles:
-      - maintainer
-      - curator
+ - name: alexellis
+   roles:
+    - maintainer
+ - name: rgee0
+   roles:
+    - maintainer
+    - curator
 
 curators:
  - viveksyngh
