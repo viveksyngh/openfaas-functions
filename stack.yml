@@ -17,14 +17,17 @@ functions:
     lang: python
     handler: ./fn3
     image: viveksyngh/fn3
+    environment: {}
   fn4:
     lang: python
     handler: ./fn4
     image: viveksyngh/fn4
+    environment: {}
   fn5:
     lang: python
     handler: ./fn5
     image: viveksyngh/fn5
+    environment: {}
 # fn6:
 #    lang: python
 #    handler: ./fn6
