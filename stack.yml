@@ -7,12 +7,10 @@ functions:
     lang: python
     handler: ./fn1
     image: viveksyngh/fn1
-    environment: {}
   fn2:
     lang: python
     handler: ./fn2
     image: viveksyngh/fn2
-    environment: {}
   fn3:
     lang: python
     handler: ./fn3
